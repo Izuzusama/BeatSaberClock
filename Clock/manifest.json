@@ -1,0 +1,18 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/nike4613/ModSaber-MetadataFileSchema/master/Schema.json",
+  "author": "Izuzusama",
+  "description": "Add a clock to the main menu",
+  "gameVersion": "1.6.1",
+  "id": "Clock",
+  "name": "Clock",
+  "version": "1.0.0",
+  "features": [],
+  "dependsOn": {
+    "BeatSaberMarkupLanguage": "^1.1.5",
+    "BS Utils": "^1.4.1"
+  },
+  "links": {
+    "project-home": "https://github.com/Izuzusama/BeatSaberClock/blob/master/README.md",
+    "project-source": "https://github.com/Izuzusama/BeatSaberClock"
+  }
+}
